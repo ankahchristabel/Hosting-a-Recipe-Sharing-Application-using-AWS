@@ -3,7 +3,10 @@ deployment process for a recipe-sharing application using AWS CloudFormation tem
 
 Hosting the Static Website
 A step-by-step look at how I set up my recipe-sharing application using the http deployment:
- 	Step 1: Configuring the Frontend
+ 
+  
+  
+  Step 1: Configuring the Frontend
 I navigated to the CloudFormation console and selected my template (ch3-http.yaml) for http configuration. I configured the following settings:
 •	Create Stack
 •	Choose “Upload a template file”.
